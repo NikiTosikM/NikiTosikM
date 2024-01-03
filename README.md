@@ -22,6 +22,7 @@
 
 ### :man_technologist: About Me :
 #### I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+#### Motivated and detail-oriented Python developer with 1 year of experience designing and implementing cutting-edge software solutions. I'm looking for an interesting junior developer position where I can apply my skills and learn from senior team members
 
 ---
 
