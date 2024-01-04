@@ -8,8 +8,11 @@
   <a href="https://vk.com/susdude">
      <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte Badge"/>
   </a>
-  <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white alt="Youtube Badge"/>
+  <a href="your-instagram-URL">
+      <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white alt="Telegram Badge"/>
+  </a>
+   <a href="@nigritosik2004">
+      <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=telegram&logoColor=white alt="Telegram Badge"/>
   </a>
 </div>
 <br/>
