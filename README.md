@@ -11,7 +11,7 @@
   <a href="your-instagram-URL">
       <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white alt="Telegram Badge"/>
   </a>
-   <a href="@nigritosik2004">
+   <a href="https://web.telegram.org/k/#@nigritosik2004">
       <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=telegram&logoColor=white alt="Telegram Badge"/>
   </a>
 </div>
